@@ -1,1 +1,1 @@
-# Embedology Diploma
+# Embedology Diploma for Embedded Systems
