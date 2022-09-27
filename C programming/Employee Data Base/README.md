@@ -3,4 +3,4 @@
 [link to a pdf](https://drive.google.com/file/d/1wEFK1bLZJq0ThzDHPpp88-OMfPfyttKX/view?usp=sharing)
 
 ## Running Project
-[link to a video](https://drive.google.com/file/d/1nnPdqhYtSGp1e9jIeyFHSz8bKQTZ8JwT/view?usp=sharing)
+![Alt Text](https://github.com/Ahmed-Mohammed-Hussanein-SW/Embedology-Bootcamp/blob/master/C%20programming/Employee%20Data%20Base/Employee%20Data%20Base.gif)
